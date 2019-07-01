@@ -1,6 +1,8 @@
-name: Andrew Saxhall, Hydrothermal Vent Worm
+name: Andrew Saxhall
 title: Hidden Beauty
 description: Pictures of the stuff in my yard
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+author: Andrew Saxhall
+username: andrewsaxhall
+whoami: Hydrothermal Vent Worm
