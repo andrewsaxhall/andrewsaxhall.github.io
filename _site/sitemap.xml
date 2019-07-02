@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2019/06/30/ash-io-hello-world</loc>
+<loc>/blog/2019/06/30/ash-io-hello-world</loc>
 <lastmod>2019-06-30T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>/blog/2019/07/01/embed_google_photo_album</loc>
+<lastmod>2019-07-01T20:32:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/blog/2019/07/01/embed_imgur_album</loc>
+<lastmod>2019-07-01T20:32:00-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/</loc>
+</url>
+<url>
+<loc>/</loc>
 </url>
 </urlset>
