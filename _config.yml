@@ -6,6 +6,4 @@ permalink: /blog/:year/:month/:day/:title
 author: Andrew Saxhall
 username: andrewsaxhall
 whoami: Hydrothermal Vent Worm
-
-remote_theme: pages-themes/jekyll-theme-cayman
 theme: jekyll-theme-cayman
