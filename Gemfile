@@ -9,7 +9,10 @@ group :jekyll_plugins do
   gem 'jekyll-theme-cayman'
 end
 
-gem 'jekyll-compose', :groups => [:development, :test]
+
+group :development, :test do
+	gem 'jekyll-compose'
+end
 
 gem 'commonmarker'
 gem 'rouge'
