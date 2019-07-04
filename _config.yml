@@ -1,9 +1,10 @@
 name: Andrew Saxhall
-title: Hidden Beauty
-description: Pictures of the stuff in my yard
+author: Andrew Saxhall
+title: HOOKERS AND BLOW
+description: Andrew's Nature Pages
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-author: Andrew Saxhall
 username: andrewsaxhall
-whoami: Hydrothermal Vent Worm
+email: androidsucksballs2@gmail.com
+whatami: Hydrothermal Vent Worm
 theme: jekyll-theme-cayman

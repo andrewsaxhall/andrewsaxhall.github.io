@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 gem "jekyll", ">= 3.6.3"
 
-
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
@@ -9,11 +8,9 @@ group :jekyll_plugins do
   gem 'jekyll-theme-cayman'
 end
 
-
-group :development, :test do
-	gem 'jekyll-compose'
+group :development, :test, :jekyll_plugins do
+  gem 'jekyll-compose'
 end
 
 gem 'commonmarker'
 gem 'rouge'
-
